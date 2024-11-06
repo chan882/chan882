@@ -38,8 +38,7 @@ I'm a Data Analyst and AI Enthusiast with a Bachelor's Degree in Computer Scienc
 ### 📂 Projects:
 - [Telegram_bot_control](https://github.com/chan882/Telegram_bot_control) –• developed an end-to-end chatbot for telegram personalised to innodatatics company
 - [vasu_organics](https://github.com/chan882/vasu_organics) – End-to-End Medical ChatbotDeveloped a healthcare-focused chatbot integrated and personalized to vasu organics
-- [Netflix_DataAnalysis]() –• developed an end-to-end chatbot for telegram personalised to innodatatics company
-
+- [Netflix_DataAnalysis](https://github.com/chan882/Netflix_DataAnalysis) –•It provides an interactive analysis of Netflix's movie and TV show dataset, visualizing genres, ratings, and content production trends over the years.
 ---
 
 ### 📫 How to reach me:

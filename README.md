@@ -46,4 +46,4 @@ I'm a Data Analyst and AI Enthusiast with a Bachelor's Degree in Computer Scienc
 - **LinkedIn:** [Sanagavarapu Chandralekha](https://www.linkedin.com/in/sanagavarapu-chandralekha-462194233)
 
 ### 😄 Pronouns: She/Her
-### ⚡ Fun fact: I once created a chatbot to automate customer queries for a project, and it ended up improving the response time by 50%!
+### ⚡ Fun fact: I created a short AI-generated video using Hygen, where my face and voice were simulated by the AI. The video demonstrates the power of AI in creating realistic, personalized content. It's a quick yet effective showcase of how AI can mimic real-life features for various applications. This type of content can be useful in virtual presentations, social media, and marketing. It emphasizes the growing potential of AI-driven video creation.
